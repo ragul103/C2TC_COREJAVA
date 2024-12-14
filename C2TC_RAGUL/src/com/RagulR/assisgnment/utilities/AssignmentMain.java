@@ -1,8 +1,10 @@
 package com.RagulR.assisgnment.utilities;
 
+import com.RagulR.assisgnment.employees.Manager;
+import com.RagulR.assisgnment.employees.Developer;
+
 public class AssignmentMain {
-	import com.RagulR.assisgnment.employees.Manager;
-	import com.RagulR.assisgnment.employees.Developer;
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		 Manager manager = new Manager();
