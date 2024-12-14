@@ -6,7 +6,6 @@ import com.RagulR.assisgnment.employees.Developer;
 public class AssignmentMain {
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		 Manager manager = new Manager();
 	        manager.setName("Alice");
 	        manager.setEmployeeId(101);

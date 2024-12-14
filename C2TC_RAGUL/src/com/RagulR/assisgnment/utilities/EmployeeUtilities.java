@@ -7,7 +7,7 @@ import com.RagulR.assisgnment.employees.Developer;
 public class EmployeeUtilities {
 
 	
-	public static void main(String[] args) {
+	public static void printEmployeeDetails(Employee employee) {
 		System.out.println("Name: " + employee.getName());
         System.out.println("ID: " +   employee.getEmployeeId());
         System.out.println("Salary: " + employee.getSalary());
